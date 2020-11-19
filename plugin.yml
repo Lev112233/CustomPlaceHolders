@@ -1,0 +1,12 @@
+name: Resume
+Author: Lev_112233
+description: Resume
+version: 1.0
+api-version: 1.13
+main: me.Main
+depend: [PlaceholderAPI]
+softdepend: [PlaceholderAPI]
+
+commands:
+  customplaceholders:
+    description: Custom placeholders commands.

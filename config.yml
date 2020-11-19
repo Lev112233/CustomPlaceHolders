@@ -1,0 +1,19 @@
+placeholders:
+  placeholder1:
+    name: 'custom_value1'
+    zero-display: '(0)'
+    normal-display: '(%value%)'
+  placeholder2:
+    name: 'custom_value2'
+    zero-display: '<0>'
+    normal-display: '<%value%>'
+
+placeholders-text:
+  placeholder1:
+    name: 'custom_value1_text'
+    zero-display: 'None'
+    normal-display: '(%value%)'
+  placeholder2:
+    name: 'custom_value2_text'
+    zero-display: 'None'
+    normal-display: '<%value%>'
